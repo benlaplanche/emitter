@@ -1,0 +1,35 @@
+{
+	"ImportPath": "github.com/benlaplanche/emitter",
+	"GoVersion": "go1.4.2",
+	"Deps": [
+		{
+			"ImportPath": "github.com/cloudfoundry/dropsonde",
+			"Rev": "2b841fc8c699e2d49cef7c288b623480dcf63cb6"
+		},
+		{
+			"ImportPath": "github.com/cloudfoundry/gosteno",
+			"Comment": "scotty_09012012-42-g0c8581c",
+			"Rev": "0c8581caea35ac903728230e447792e2365dcc34"
+		},
+		{
+			"ImportPath": "github.com/cloudfoundry/sonde-go/events",
+			"Rev": "e9b4698e850553401d1d2dd998c756fdf29356ea"
+		},
+		{
+			"ImportPath": "github.com/garyburd/redigo/internal",
+			"Rev": "535138d7bcd717d6531c701ef5933d98b1866257"
+		},
+		{
+			"ImportPath": "github.com/garyburd/redigo/redis",
+			"Rev": "535138d7bcd717d6531c701ef5933d98b1866257"
+		},
+		{
+			"ImportPath": "github.com/gogo/protobuf/proto",
+			"Rev": "8edb24c179ed858a38f18920d9005c2dde05ec17"
+		},
+		{
+			"ImportPath": "github.com/nu7hatch/gouuid",
+			"Rev": "179d4d0c4d8d407a32af483c2354df1d2c91e6c3"
+		}
+	]
+}
